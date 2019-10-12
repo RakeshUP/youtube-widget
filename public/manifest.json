@@ -23,7 +23,7 @@
     }
   ],
   "browser_action": {
-    "default_icon": "icons/icon.png",
+    "default_icon": "icons/icon128.png",
     "default_popup": "index.html",
     "default_title": "Control your YouTube media from here!"
   },
