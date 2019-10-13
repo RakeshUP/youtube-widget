@@ -2,10 +2,10 @@
 Widget to control media playing in any YouTube™ tab
 
 Features:
- • Click on the song name to directly go the tab
- • Quickly play/pause or skip to next video
- • Seek the video to any point using the seek bar
- • Open a YouTube tab right from the Chrome toolbar
+ * Click on the song name to directly go the tab
+ * Quickly play/pause or skip to next video
+ * Seek the video to any point using the seek bar
+ * Open a YouTube tab right from the Chrome toolbar
  
 ## Chrome Web Store 
 [https://chrome.google.com/webstore/detail/youtube-widget/hmmageicpcbobjedojoecplfincecdcb](https://chrome.google.com/webstore/detail/youtube-widget/hmmageicpcbobjedojoecplfincecdcb)
